@@ -13,4 +13,8 @@
     <PackageReference Include="Nito.AsyncEx" Version="5.1.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\libs\Engine.GameServer\Engine.GameServer\Engine.GameServer.csproj" />
+  </ItemGroup>
+
 </Project>

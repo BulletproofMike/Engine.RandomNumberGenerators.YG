@@ -6,9 +6,9 @@ using System.Text.Json;
 using System.Threading;
 using System.Threading.Tasks;
 using Nito.AsyncEx;
-using Reflex.GameServer.RandomNumbers;
+using Engine.GameServer.RandomNumbers;
 
-namespace Reflex.RandomNumberGenerators.Yggdrasil
+namespace Engine.RandomNumberGenerators.YG
 {
     public sealed class YggdrasilRandomNumberStream : IRandomNumberStream, IDisposable
     {
