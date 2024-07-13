@@ -1,0 +1,3 @@
+[submodule "libs/libs/Engine.GameServer"]
+	path = libs/libs/Engine.GameServer
+	url = git@github.com:BulletproofMike/Engine.GameServer.git
